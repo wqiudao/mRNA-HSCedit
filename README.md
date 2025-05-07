@@ -36,7 +36,6 @@ install.packages("dplyr")
 install.packages("ggplot2")    
 install.packages("viridis")    
 install.packages("survival") 
-# install.packages("ggpubr") 
 install.packages("corrplot") 
 install.packages("locfit") 
    
