@@ -22,6 +22,8 @@ conda install ucsc-bedtobigbed -y
 pip install pyGenomeTracks
 
 
+hg38-blacklist.v2.bed  https://github.com/Boyle-Lab/Blacklist
+
 R
 install.packages('XML')
 install.packages("stringi")
