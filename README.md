@@ -4,7 +4,7 @@
 dnf install ncurses-compat-libs  -y #need root
 
 
- 
+``` 
 conda create --name CUT_RUNTools_2 --file conda_spec_list.txt  -y
 
 conda activate CUT_RUNTools_2
@@ -55,3 +55,4 @@ install.packages("ggpubr")
 BiocManager::install("ChIPseeker")
 BiocManager::install("TxDb.Hsapiens.UCSC.hg38.knownGene")
 
+```
