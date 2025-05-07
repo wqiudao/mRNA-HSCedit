@@ -60,7 +60,7 @@ BiocManager::install("TxDb.Hsapiens.UCSC.hg38.knownGene")
 
 
 
-# run
+# run script
 
 cutrun.sh
 
