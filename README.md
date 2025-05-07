@@ -61,6 +61,12 @@ BiocManager::install("TxDb.Hsapiens.UCSC.hg38.knownGene")
 
 
 # run script
+```
+reads_clean_pe.sh 13_BKDL210033002-1a_1.clean.fq.gz 13_BKDL210033002-1a_2.clean.fq.gz /data3/1_mageckenv/XSJ/cutrun/02-Data/20210712_clean_data
+reads_clean_pe.sh 14_BKDL210033003-1a_1.clean.fq.gz 14_BKDL210033003-1a_2.clean.fq.gz /data3/1_mageckenv/XSJ/cutrun/02-Data/20210712_clean_data
+reads_clean_pe.sh 15_BKDL210033004-1a_1.clean.fq.gz 15_BKDL210033004-1a_2.clean.fq.gz /data3/1_mageckenv/XSJ/cutrun/02-Data/20210712_clean_data
+```
+
 
 cutrun.sh
 
