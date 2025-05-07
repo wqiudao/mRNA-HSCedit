@@ -57,3 +57,14 @@ BiocManager::install("ChIPseeker")
 BiocManager::install("TxDb.Hsapiens.UCSC.hg38.knownGene")
 
 ```
+
+
+
+# run
+
+cutrun.sh
+
+ATAC-Seq.sh
+
+
+
